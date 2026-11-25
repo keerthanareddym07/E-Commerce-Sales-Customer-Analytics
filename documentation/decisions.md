@@ -22,3 +22,7 @@
 
 \- 775 orders have no rows in order\_items (603 unavailable, 164 canceled, 5 created, 2 invoiced, 1 shipped). They cannot produce revenue. Sales and order counts use order\_items, so these orders are excluded. Orders with status canceled or unavailable are also excluded from sales even if they have items.
 
+
+
+\- Delivery dates vs status: 8 orders have status delivered but no delivery date; 6 orders are canceled but have a delivery date. All other missing delivery dates are on orders that were not delivered (expected). Delivery-time and late-delivery analysis will use only delivered orders with a delivery date. Dates are not filled in.
+
