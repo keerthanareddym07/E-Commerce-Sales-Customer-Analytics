@@ -44,3 +44,7 @@
 
 
 
+\- Revenue reconciliation: sum of item prices = 13,591,643.70; price + freight = 15,843,553.24; payments total = 16,008,872.12. They do not match: freight explains most of the gap, and payments are about 1% higher than price + freight (cause not confirmed; possibly instalment interest and payments on orders without items). Revenue is defined as the sum of item prices, excluding freight and excluding canceled/unavailable orders.
+
+
+
