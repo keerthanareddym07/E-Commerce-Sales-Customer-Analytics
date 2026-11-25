@@ -14,3 +14,7 @@
 
 \- product\_category\_translation: 70 of 71 English category names had a hidden \\r at the end (the CSV uses Windows line endings). Removed it with REPLACE(..., '\\r', ''). Verified: count of affected names is now 0.
 
+
+
+\- Orphan checks: all six returned 0 (no orders without customers, no items without order/product/seller, no payments or reviews without an order). Foreign keys are consistent even though they were disabled during load.
+
