@@ -26,3 +26,9 @@
 
 \- Delivery dates vs status: 8 orders have status delivered but no delivery date; 6 orders are canceled but have a delivery date. All other missing delivery dates are on orders that were not delivered (expected). Delivery-time and late-delivery analysis will use only delivered orders with a delivery date. Dates are not filled in.
 
+
+
+\- Categories: 610 products have no category name, and 2 categories (pc\_gamer, portateis\_cozinha\_e\_preparadores\_de\_alimentos) have no English translation. They are kept. In vw\_sales the category is COALESCE(English name, Portuguese name, 'unknown'), so no sales rows are lost. Category charts should mention that 'unknown' exists.
+
+
+
