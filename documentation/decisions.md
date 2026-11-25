@@ -36,3 +36,7 @@
 
 
 
+\- Date coverage: orders run from 2016-09 to 2018-10. 2016 has only 3 months with data (4, 324, 1 orders; November missing). Sep 2018 (16 orders) and Oct 2018 (4) are incomplete. Trend and growth statements use only 2017-01 to 2018-08. Year-over-year comparisons use Jan-Aug of both years. Nov 2017 is the peak month (7,544 orders); the cause is not in the data.
+
+
+
