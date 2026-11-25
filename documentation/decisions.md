@@ -18,3 +18,7 @@
 
 \- Orphan checks: all six returned 0 (no orders without customers, no items without order/product/seller, no payments or reviews without an order). Foreign keys are consistent even though they were disabled during load.
 
+
+
+\- 775 orders have no rows in order\_items (603 unavailable, 164 canceled, 5 created, 2 invoiced, 1 shipped). They cannot produce revenue. Sales and order counts use order\_items, so these orders are excluded. Orders with status canceled or unavailable are also excluded from sales even if they have items.
+
