@@ -32,3 +32,7 @@
 
 
 
+\- Prices: min 0.85, max 6,735.00, average 120.65, no zero or negative prices. Reviewed the 10 highest prices by category: all plausible for their category (computers, appliances, art, instruments, watches). No outliers removed; the housewares item at 6,735 is the least obvious but cannot be verified (no product names in the data).
+
+
+
