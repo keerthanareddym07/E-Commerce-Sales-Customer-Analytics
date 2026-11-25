@@ -40,3 +40,7 @@
 
 
 
+\- geolocation: 1,000,163 rows, of which 280,009 repeat an existing ZIP prefix + latitude + longitude combination. The table is not used in the analysis (location comes from customer\_state), so it is left unchanged. If it is ever used, it must be reduced to one row per ZIP prefix before joining.
+
+
+
