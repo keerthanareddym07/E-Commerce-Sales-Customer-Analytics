@@ -48,3 +48,5 @@
 
 
 
+\- Basic KPIs (from vw\_sales): 98,199 valid orders out of 99,441 total (1,242 excluded: 775 without items + 467 canceled/unavailable with items). 94,983 real customers (customer\_unique\_id). Total revenue 13,494,400.74 BRL.
+
