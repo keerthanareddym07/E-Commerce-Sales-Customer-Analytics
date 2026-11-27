@@ -54,3 +54,7 @@
 
 \- Order value KPIs (vw\_sales): average order value 137.42 BRL (checked: 13,494,400.74 / 98,199 = 137.42). 112,101 units sold in 98,199 valid orders = 1.14 items per order, so most orders contain a single item.
 
+
+
+\- Order status mix (orders table, 99,441 orders): delivered 96,478 (97.02%), shipped 1,107, canceled 625, unavailable 609, invoiced 314, processing 301, created 5, approved 2. Canceled + unavailable = 1.24% of orders and are excluded from sales. Orders still in progress (about 1.7%) are included in revenue because the customer placed a real order; this is a deliberate rule.
+
