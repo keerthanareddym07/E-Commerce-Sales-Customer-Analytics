@@ -58,3 +58,7 @@
 
 \- Order status mix (orders table, 99,441 orders): delivered 96,478 (97.02%), shipped 1,107, canceled 625, unavailable 609, invoiced 314, processing 301, created 5, approved 2. Canceled + unavailable = 1.24% of orders and are excluded from sales. Orders still in progress (about 1.7%) are included in revenue because the customer placed a real order; this is a deliberate rule.
 
+
+
+\- Yearly revenue (vw\_sales): 2016 = 44,726.06 (3 months, 293 orders), 2017 = 6,108,492.27 (12 months, 44,375 orders), 2018 = 7,341,182.41 (9 months listed, but Sep 2018 has only 1 order, so 8 usable months). Sum = 13,494,400.74, matching total revenue. Whole-year totals are not comparable because the years cover different months, so growth is measured on Jan-Aug of 2017 vs 2018.
+
