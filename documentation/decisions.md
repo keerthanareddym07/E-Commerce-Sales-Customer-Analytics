@@ -62,3 +62,7 @@
 
 \- Yearly revenue (vw\_sales): 2016 = 44,726.06 (3 months, 293 orders), 2017 = 6,108,492.27 (12 months, 44,375 orders), 2018 = 7,341,182.41 (9 months listed, but Sep 2018 has only 1 order, so 8 usable months). Sum = 13,494,400.74, matching total revenue. Whole-year totals are not comparable because the years cover different months, so growth is measured on Jan-Aug of 2017 vs 2018.
 
+
+
+\- Top revenue months (vw\_sales): 2017-11 = 1,003,862.14; 2018-04 = 993,592.98; 2018-05 = 992,871.75. The three are within about 1% of each other, so revenue plateaued around 1M BRL per month in 2018. The cause of the Nov 2017 peak is not in the data.
+
